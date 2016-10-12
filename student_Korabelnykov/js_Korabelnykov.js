@@ -4,4 +4,4 @@ function counter() {
         return function() {
             return currentCount++;
         }
-}
+};;
